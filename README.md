@@ -4,7 +4,6 @@ When you clone this project, install this globally.
 
 ```
 npm install -g
-
 ```
 
 Then you can try out
