@@ -1,0 +1,21 @@
+{
+  "name": "macha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "macha": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^6.1.0",
+    "inquirer": "^7.3.3",
+    "pad": "^3.2.0"
+  }
+}
