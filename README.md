@@ -11,9 +11,10 @@ Then you can try out
 ```
 macha list
 ```
-
-and
+![Image of list](https://cdn-images-1.medium.com/max/800/1*-JlNNn2qaaZH-dWqnllzow.gif)
 
 ```
 macha order
 ```
+![Image of order](https://cdn-images-1.medium.com/max/800/1*DnaP5s0f5HjD6uR3XPfPUA.gif)
+
